@@ -31,7 +31,7 @@ Create a new directory to do your workshop work in.  Let's call it "promise-shop
 You will need to initialize npm in this repo.
 
 ```
-$ git clone https://github.com/Cyrhades/promise-it-wont-hurt promise-shop
+$ git clone https://github.com/Cyrhades/promise-it-wont-hurt ./
 $ npm install
 ```
 
