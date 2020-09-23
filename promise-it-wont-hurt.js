@@ -2,6 +2,7 @@
 
 'use strict';
 
+var os = require('os'); os.tmpDir = os.tmpdir;
 var workshopper = require('@timothygu/workshopper');
 var path = require('path');
 
